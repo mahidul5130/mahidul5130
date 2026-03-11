@@ -156,6 +156,8 @@ Central City Hotel Booking & Marketing Website is a production platform built fo
 - Optimized the frontend for desktop and mobile using reusable Blade components, and an image optimization workflow designed for room photography, gallery assets, and hospitality-focused landing pages.
 - Delivered a complete client-facing product with **public source code, live deployment, analytics, contact automation, and conversion-oriented UX**, demonstrating end-to-end ownership from implementation to release.
 
+🔒 *Source code maintained under organization repositories (private).*
+
 ---
 
 ### 🩸 Blood Donation App
@@ -168,6 +170,8 @@ Central City Hotel Booking & Marketing Website is a production platform built fo
 - Developed a **geolocation-aware donor search** with real-time filtering and optimized API response times.
 - Integrated **Firebase push notifications** and queued SMS/email alerts.
 - Improved donor engagement and reduced response time by **~30%**.
+
+🔒 *Source code maintained under organization repositories (private).*
 
 ---
 
