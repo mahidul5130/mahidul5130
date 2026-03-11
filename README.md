@@ -94,6 +94,25 @@ Experienced in building **secure, scalable, real-world systems** used by thousan
 
 ## 🚀 Major Projects
 
+### 🏨 Central City Hotel Kuala Lumpur
+**Laravel 12 + Blade + Tailwind CSS + Filament | Freelance Client Project**  
+🗓 **January 2026 – Present**  
+🌐 **Live Website:** https://centralcityhotelkl.my  
+🧑‍💻 **Source Code:** https://github.com/mahidul5130/central-city-hotel
+
+**Project Overview**  
+Central City Hotel Kuala Lumpur is a production website built for a real hospitality client. The project goes beyond a simple brochure site: it combines structured hotel content, SEO-ready landing pages, guest enquiry automation, WhatsApp conversion flows, and an admin-side visitor intelligence dashboard for operational visibility.
+
+**Key Contributions**
+- Built and launched the official website for a **102-room Kuala Lumpur hotel**, delivering **12 public-facing pages** for rooms, restaurant, gallery, nearby attractions, FAQ, contact, and hotel policy content.
+- Developed the application using **Laravel 12, PHP, Blade, Tailwind CSS, MySQL, and Vite**, with reusable page sections and centralized configuration to keep hotel content, room data, labels, and CTA flows consistent across the site.
+- Implemented **SEO-focused architecture** with page-level metadata, Open Graph tags, structured schema markup, canonical handling, and **XML sitemap generation** to improve crawlability and search visibility.
+- Built a guest enquiry workflow with **Laravel validation**, **WhatsApp deep links**, support for **250 country-code options**, queued processing, and **2 automated email notifications** for admin follow-up and guest acknowledgement.
+- Created a **Filament admin panel** to review contacts and visitor logs, along with a **7-widget analytics dashboard** for traffic trends, geography, browser/device analysis, referrer sources, and recent visitor activity.
+- Added asynchronous visitor tracking using **Laravel jobs** to capture route, GeoIP, operating system, browser, language, device type, and referrer information without slowing down page responses.
+- Optimized the frontend for desktop and mobile using **Tailwind CSS**, reusable Blade components, and an image optimization workflow designed for room photography, gallery assets, and hospitality-focused landing pages.
+- Delivered a complete client-facing product with **public source code, live deployment, analytics, contact automation, and conversion-oriented UX**, demonstrating end-to-end ownership from implementation to release.
+
 ### 🏦 Agrani Bank Remittance App
 **Laravel REST API + Vue.js | Banking & Remittance System**  
 🗓 **May 2024 – Present**  
