@@ -142,7 +142,6 @@ Experienced in building **secure, real-world products** including **bank remitta
 **Laravel 12 + Blade + Filament | Freelance Client Project**  
 🗓 **January 2026 – Present**  
 🌐 **Live Website:** https://centralcityhotelkl.my  
-🧑‍💻 **Source Code:** https://github.com/mahidul5130/central-city-hotel
 
 **Project Overview**  
 Central City Hotel Booking & Marketing Website is a production platform built for a real hospitality client. The project goes beyond a simple brochure site: it combines structured hotel content, SEO-ready landing pages, guest enquiry automation, WhatsApp conversion flows, and an admin-side visitor intelligence dashboard for operational visibility.
