@@ -17,7 +17,7 @@
 
 Backend-focused Full-Stack Software Engineer with **3+ years of professional experience** building **Laravel applications, REST APIs, client-facing platforms, and production business systems**. Strong in **backend architecture, third-party integrations, secure workflows, and scalable web delivery** across banking, payment, hospitality, and internal operational systems.
 
-Experienced in building **secure, real-world products** including **bank remittance platforms, mobile financial services (MFS), hotel websites with enquiry automation and analytics, and healthcare-related applications**. Comfortable owning both backend-heavy systems and full-stack deliveries using **Laravel, Vue.js, Blade, Tailwind CSS, Filament, MySQL, Redis, and Docker**.
+Experienced in building **secure, real-world products** including **bank remittance platforms, mobile financial services (MFS), hotel websites with enquiry automation and analytics, and healthcare-related applications**. Comfortable owning both backend-heavy systems and full-stack deliveries using **Laravel, Vue.js, Blade, Filament, MySQL, Redis, and Docker**.
 
 **Currently working with:** Laravel, Vue.js, Blade, Filament, Redis queues, Firebase, MQTT, FPX payments, XML/SOAP banking APIs.
 
@@ -105,7 +105,7 @@ Experienced in building **secure, real-world products** including **bank remitta
 ## 🚀 Major Projects
 
 ### 🏨 Central City Hotel Kuala Lumpur
-**Laravel 12 + Blade + Tailwind CSS + Filament | Freelance Client Project**  
+**Laravel 12 + Blade + Filament | Freelance Client Project**  
 🗓 **January 2026 – Present**  
 🌐 **Live Website:** https://centralcityhotelkl.my  
 🧑‍💻 **Source Code:** https://github.com/mahidul5130/central-city-hotel
@@ -115,12 +115,12 @@ Central City Hotel Kuala Lumpur is a production website built for a real hospita
 
 **Key Contributions**
 - Built and launched the official website for a **102-room Kuala Lumpur hotel**, delivering **12 public-facing pages** for rooms, restaurant, gallery, nearby attractions, FAQ, contact, and hotel policy content.
-- Developed the application using **Laravel 12, PHP, Blade, Tailwind CSS, MySQL, and Vite**, with reusable page sections and centralized configuration to keep hotel content, room data, labels, and CTA flows consistent across the site.
+- Developed the application using **Laravel 12, PHP, Blade, MySQL, and Vite**, with reusable page sections and centralized configuration to keep hotel content, room data, labels, and CTA flows consistent across the site.
 - Implemented **SEO-focused architecture** with page-level metadata, Open Graph tags, structured schema markup, canonical handling, and **XML sitemap generation** to improve crawlability and search visibility.
 - Built a guest enquiry workflow with **Laravel validation**, **WhatsApp deep links**, support for **250 country-code options**, queued processing, and **2 automated email notifications** for admin follow-up and guest acknowledgement.
 - Created a **Filament admin panel** to review contacts and visitor logs, along with a **7-widget analytics dashboard** for traffic trends, geography, browser/device analysis, referrer sources, and recent visitor activity.
 - Added asynchronous visitor tracking using **Laravel jobs** to capture route, GeoIP, operating system, browser, language, device type, and referrer information without slowing down page responses.
-- Optimized the frontend for desktop and mobile using **Tailwind CSS**, reusable Blade components, and an image optimization workflow designed for room photography, gallery assets, and hospitality-focused landing pages.
+- Optimized the frontend for desktop and mobile using reusable Blade components, and an image optimization workflow designed for room photography, gallery assets, and hospitality-focused landing pages.
 - Delivered a complete client-facing product with **public source code, live deployment, analytics, contact automation, and conversion-oriented UX**, demonstrating end-to-end ownership from implementation to release.
 
 ### 🏦 Agrani Bank Remittance App
