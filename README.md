@@ -138,13 +138,13 @@ Experienced in building **secure, real-world products** including **bank remitta
 
 ---
 
-### 🏨 Central City Hotel Booking & Marketing Website
+### 🏨 Central City Hotel Booking & Marketing Website (KL, Malaysia)
 **Laravel 12 + Blade + Filament | Freelance Client Project**  
 🗓 **January 2026 – Present**  
 🌐 **Live Website:** https://centralcityhotelkl.my  
 
 **Project Overview**  
-Central City Hotel Booking & Marketing Website is a production platform built for a real hospitality client. The project goes beyond a simple brochure site: it combines structured hotel content, SEO-ready landing pages, guest enquiry automation, WhatsApp conversion flows, and an admin-side visitor intelligence dashboard for operational visibility.
+Central City Hotel Booking & Marketing Website is a production platform built for a real hospitality client in KL, Malaysia. The project goes beyond a simple brochure site: it combines structured hotel content, SEO-ready landing pages, guest enquiry automation, WhatsApp conversion flows, and an admin-side visitor intelligence dashboard for operational visibility.
 
 **Key Contributions**
 - Built and launched the official website for a **102-room Kuala Lumpur hotel**, delivering **12 public-facing pages** for rooms, restaurant, gallery, nearby attractions, FAQ, contact, and hotel policy content.
