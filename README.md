@@ -15,11 +15,11 @@
 
 ## 🧑‍💻 Professional Summary
 
-Backend-focused Full-Stack Software Engineer with **3+ years of professional experience**, specialising in **Laravel backend development**, **RESTful APIs**, and **banking & payment system integrations**. Strong experience working with **Vue.js** by converting static UI designs into functional, production-ready frontend applications.
+Backend-focused Full-Stack Software Engineer with **3+ years of professional experience** building **Laravel applications, REST APIs, client-facing platforms, and production business systems**. Strong in **backend architecture, third-party integrations, secure workflows, and scalable web delivery** across banking, payment, hospitality, and internal operational systems.
 
-Experienced in building **secure, scalable, real-world systems** used by thousands of users, including **bank remittance platforms, mobile financial services (MFS), and healthcare-related applications**. Open to **backend-focused full-stack or Laravel roles** where **system design, performance, and reliability** are critical.
+Experienced in building **secure, real-world products** including **bank remittance platforms, mobile financial services (MFS), hotel websites with enquiry automation and analytics, and healthcare-related applications**. Comfortable owning both backend-heavy systems and full-stack deliveries using **Laravel, Vue.js, Blade, Tailwind CSS, Filament, MySQL, Redis, and Docker**.
 
-**Currently working with:** Laravel, Vue.js, Redis queues, FPX payments, XML/SOAP banking APIs.
+**Currently working with:** Laravel, Vue.js, Blade, Filament, Redis queues, Firebase, MQTT, FPX payments, XML/SOAP banking APIs.
 
 ---
 
@@ -30,6 +30,7 @@ Experienced in building **secure, scalable, real-world systems** used by thousan
 - RESTful API Design
 - Authentication (Sanctum, Passport)
 - XML / SOAP API Integration
+- FPX Payment Gateway
 - Policy-based Authorization
 - Validation Layers & Middleware
 
@@ -37,6 +38,7 @@ Experienced in building **secure, scalable, real-world systems** used by thousan
 - **Vue.js**, Vue Router, Vuex
 - JavaScript, TypeScript
 - Blade Templates
+- Vite
 - Capacitor (Hybrid Mobile Apps)
 
 ### Database & Infrastructure
@@ -51,6 +53,7 @@ Experienced in building **secure, scalable, real-world systems** used by thousan
 - Clean Architecture
 - MVC, Service Classes
 - Repository Pattern
+- Filament Admin Panels
 - Laravel Queues, Workers, Scheduler
 - Logging & API Documentation
 - PHPUnit & API Testing
@@ -62,6 +65,13 @@ Experienced in building **secure, scalable, real-world systems** used by thousan
 - FPX Payment Gateway
 - QR Payments (EMV – static & dynamic)
 - PDF Generation
+
+### Web Delivery & SEO
+- Responsive UI Delivery
+- WhatsApp Deep Link Workflows
+- Structured Data / Schema Markup
+- Open Graph & Metadata
+- XML Sitemap Generation
 
 ---
 
