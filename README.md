@@ -6,9 +6,9 @@ I build production Laravel and Vue.js systems for banking, payment, hospitality,
 
 - Email: [mahidul5130@gmail.com](mailto:mahidul5130@gmail.com)
 - LinkedIn: [linkedin.com/in/md-mahidul-haque](https://www.linkedin.com/in/md-mahidul-haque)
-- Portfolio: [mahidul5130.github.io](https://mahidul5130.github.io)
+- Portfolio: [mahidulhaque.com](https://mahidulhaque.com/)
 - GitHub: [github.com/mahidul5130](https://github.com/mahidul5130)
-- CV: [Md_Mahidul_Haque_Laravel_Vue_CV.pdf](https://mahidul5130.github.io/Md_Mahidul_Haque_Laravel_Vue_CV.pdf)
+- CV: [Md_Mahidul_Haque_Laravel_Vue_CV.pdf](https://mahidulhaque.com/Md_Mahidul_Haque_Laravel_Vue_CV.pdf)
 
 ## What I Bring
 
