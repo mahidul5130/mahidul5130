@@ -37,7 +37,7 @@ I build production Laravel and Vue.js systems for banking, payment, hospitality,
 **Systems Solutions & Development Technologies (SSD-TECH) / Dotlines**
 June 2023 - Present | Dhaka, Bangladesh
 
-- Developed and maintained 3.5+ production Laravel/Vue applications covering backend logic, API design, queues, schedulers, admin operations, and third-party integrations.
+- Developed and maintained 5+ production Laravel/Vue applications covering backend logic, API design, queues, schedulers, admin operations, and third-party integrations.
 - Enhanced 5+ existing systems through bug fixing, performance tuning, secure workflow improvements, and new module delivery.
 - Built secure Laravel APIs using middleware, policy-based authorization, structured request validation, OAuth/Passport, and reusable service layers.
 - Implemented real-time and notification workflows using Firebase, MQTT, queues, and event listeners.
