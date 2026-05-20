@@ -12,7 +12,7 @@ I build production Laravel and Vue.js systems for banking, payment, hospitality,
 
 ## What I Bring
 
-- 3+ years of professional experience building Laravel applications, REST APIs, admin panels, queues, schedulers, and third-party integrations.
+- 3.5+ years of professional experience building Laravel applications, REST APIs, admin panels, queues, schedulers, and third-party integrations.
 - Production experience in remittance, mobile financial services, QR payments, hotel booking/marketing websites, visitor analytics, and business workflow automation.
 - Comfortable working across backend and frontend: Laravel, PHP, MySQL, Redis, Vue.js, Blade, Filament, Docker, Firebase, MQTT, and API documentation.
 - Remote-friendly habits: clear written updates, Git-based collaboration, reproducible setup notes, API contracts, Postman testing, and async handoff.
@@ -37,7 +37,7 @@ I build production Laravel and Vue.js systems for banking, payment, hospitality,
 **Systems Solutions & Development Technologies (SSD-TECH) / Dotlines**
 June 2023 - Present | Dhaka, Bangladesh
 
-- Developed and maintained 3+ production Laravel/Vue applications covering backend logic, API design, queues, schedulers, admin operations, and third-party integrations.
+- Developed and maintained 3.5+ production Laravel/Vue applications covering backend logic, API design, queues, schedulers, admin operations, and third-party integrations.
 - Enhanced 5+ existing systems through bug fixing, performance tuning, secure workflow improvements, and new module delivery.
 - Built secure Laravel APIs using middleware, policy-based authorization, structured request validation, OAuth/Passport, and reusable service layers.
 - Implemented real-time and notification workflows using Firebase, MQTT, queues, and event listeners.
@@ -56,7 +56,7 @@ February 2023 - May 2023 | Dhaka, Bangladesh
 
 ### Agrani Bank Remittance App
 
-**Laravel REST API, Vue.js, MySQL, Redis, Firebase, MQTT, XML/SOAP, FPX**
+**Laravel REST API, Vue.js, Capacitor, MySQL, Redis, Firebase, MQTT, XML/SOAP, FPX**
 
 Live app: [Google Play](https://play.google.com/store/apps/details?id=com.agranibank.app.malaysia)
 
@@ -64,17 +64,19 @@ Live app: [Google Play](https://play.google.com/store/apps/details?id=com.agrani
 - Integrated Agrani Bank XML/SOAP services for core banking data synchronization and automated transaction updates.
 - Implemented FPX payment gateway workflows for secure online payment processing.
 - Developed multilingual Vue.js interfaces from static UI designs and connected them to production APIs.
+- Built Android APK delivery using Capacitor.
 - Improved maintainability with service classes, repository pattern, validation layers, logging, and API documentation.
 
 ### Laopay Mobile Financial Service Application
 
-**Laravel API, wallet flows, QR payments, OAuth, Redis queues, Firebase, MQTT**
+**Laravel REST API, Vue.js, Capacitor, wallet flows, QR payments, OAuth, MySQL, Redis queues, Firebase, MQTT**
 
 Live app: [Google Play](https://play.google.com/store/apps/details?id=app.laopay)
 
 - Fixed wallet and merchant transaction logic, balance calculations, and onboarding issues in a production MFS system.
 - Implemented EMV QR payment workflows including static QR, variable-amount QR, CRC validation, and receipt generation.
 - Strengthened OAuth-based authentication and encrypted API communication.
+- Built Vue.js mobile app screens and Android APK delivery using Capacitor.
 - Automated onboarding, notifications, retries, and operational workflows using Redis queues, Firebase, and MQTT.
 
 ### Central City Hotel Kuala Lumpur Malaysia Booking & Marketing Website
@@ -107,6 +109,7 @@ February 2026 - Present
 Live system: [45.249.101.49:8093](http://45.249.101.49:8093)
 
 - Built a donor registration and search platform with multilingual UI, secure API communication, and mobile-friendly workflows.
+- Built Android APK delivery using Capacitor.
 - Added geolocation-aware search, Firebase push notifications, queued SMS/email alerts, and admin-side donor management.
 
 ## Education
